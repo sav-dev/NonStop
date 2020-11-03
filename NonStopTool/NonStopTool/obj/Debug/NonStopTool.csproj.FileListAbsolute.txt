@@ -1,0 +1,10 @@
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\bin\Debug\NonStopTool.exe.config
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\bin\Debug\NonStopTool.exe
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\bin\Debug\NonStopTool.pdb
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\obj\Debug\NonStopTool.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\obj\Debug\NonStopTool.Properties.Resources.resources
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\obj\Debug\NonStopTool.csproj.GenerateResource.Cache
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\obj\Debug\NonStopTool.exe
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\obj\Debug\NonStopTool.pdb
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\obj\Debug\NonStopTool.Tiles.resources
+C:\Users\tomas\Documents\NES\GitHub\Nonstop\NonStopTool\NonStopTool\bin\Debug\Resources\palette.png
